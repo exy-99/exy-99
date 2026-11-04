@@ -1,4 +1,11 @@
 <div align="center">
+# Hi, I'm YOUR NAME 👋
+
+<p align="center">
+  <img src="./redwood-forest-light-15s.webp"
+       alt="Animated ASCII art of sunbeams through a redwood forest"
+       width="640">
+</p>
   
   <!-- Animated Header -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Student+by+Day.;Shipper+by+Night.;Full+Stack+Developer." alt="Typing Animation" />
