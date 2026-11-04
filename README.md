@@ -1,5 +1,4 @@
 <div align="center">
-# Hi, I'm YOUR NAME 👋
 
 <p align="center">
   <img src="./redwood-forest-light-15s.webp"
